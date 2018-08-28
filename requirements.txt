@@ -1,0 +1,6 @@
+beautifulsoup4==4.6.3
+cffi==1.11.5
+lxml==4.2.4
+mecab-python3==0.7
+natto-py==0.9.0
+pycparser==2.18

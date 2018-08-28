@@ -1,0 +1,2 @@
+from .novel import Novel
+
